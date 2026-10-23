@@ -11,6 +11,9 @@ featureA = "Feature A is working"
 featureB = "Feature B is working"
 featureC = "Feature C is working"
 
+featureD = "Feature D is working"
+featureE = "Feature E is working"
+featureF = "Feature F is working"
 
 ############################################################
 # Health Endpoint
