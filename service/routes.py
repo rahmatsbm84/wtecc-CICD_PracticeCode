@@ -7,6 +7,10 @@ from service.common import status
 
 COUNTER = {}
 
+featureA = "Feature A is working"
+featureB = "Feature B is working"
+featureC = "Feature C is working"
+
 
 ############################################################
 # Health Endpoint
